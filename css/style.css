@@ -1,0 +1,243 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#66BFBF;
+    height: 8vh;
+  }
+
+  
+  li {
+  float: left;
+}
+  
+  li a {
+    display: inline-block;
+    color: white;
+    padding: 12px 10px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #94ebcd;
+    border-radius: 20px;
+  }
+  
+  .active {
+    background-color: #94ebcd;
+    border-radius: 20px;
+    
+  }
+  
+  h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+  }
+  
+  h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+  }
+  
+  h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  p {
+    line-height: 2;
+  }
+
+  .t1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 25px;
+  }
+  
+  hr {
+    border: dotted gray 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 90px auto;
+  }
+  .birds{
+    margin-right: 45%;
+    height: 10vh;
+    width: 60px;
+  }
+
+
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+    width: 12%;
+    height: 10vh;
+    margin-top: 5%;
+    margin-right: -10%;
+  }
+  
+  .bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+    width: 12%;
+    height: 10vh;
+    margin-left: -7%;
+  }
+  
+
+
+  a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #EAF6F6;
+  }
+  
+  .top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+  }
+  
+
+  .profile1{
+    width: 10%;  
+    margin-top: 2%;
+  }
+
+  .p1{
+    margin-top: 10%;
+    margin-left: 460%;
+    width: 70%;
+    height: 20vh;
+  }
+
+  .intro {
+    font-family: "Montserrat";
+    width: 180%;
+    text-align: center justify;
+    margin-top: 10%;
+    margin-left: 405%;
+   }
+
+   .intro1{
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+    width: 180%;
+    text-align: center justify;
+    margin-top: 10%;
+    margin-left: 410%;
+   }
+  
+  
+  
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+  }
+
+  .s1{
+    font-family: 'Libre Baskerville', serif;
+  }
+
+  .s2{
+    font-family: 'Handlee' , cursive;
+    font-size: 20px;
+  }
+  
+  
+  .contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+    font-family: "Handlee" , cursive;
+    font-size: 20px;
+  }
+  
+
+  .ui-img {
+    width: 25%;
+    float: left;
+   
+  }
+  
+  .web-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  
+  .btn {
+  background: #11cdd4;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 10px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+
+  }
+
+  .bottom-container {
+    font-weight: bold;
+    height: 10vh;
+    margin-top: 2%;
+    background-color: #66BFBF;
+    padding: 10px 0 50px;
+   
+  }
+
+  .fa-facebook-square{
+    font-size: 30px;
+    margin-bottom: 2%;
+  }
+
+  .fa-twitter-square{
+    font-size: 30px;
+  }
+
+  .fa-instagram-square{
+    font-size: 30px;
+  }
+
+ .fa-github{
+  font-size: 30px;
+ }
+
+ .fc{
+   text-decoration: none;
+   font-family:  'Montserrat', sans-serif;
+   text-align: center;
+   color: white;
+   font-size: 20px;
+ }
+
+  
+  
